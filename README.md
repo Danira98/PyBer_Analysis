@@ -1,4 +1,4 @@
-# ***PyBer Analysis with Matplotlib***
+# ***Pyber Analysis with Matplotlib***
 
 ## Overview of Project:
 
