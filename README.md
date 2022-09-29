@@ -1,16 +1,16 @@
-# ***Pyber Analysis with Matplotlib***
+# ***PyBer Analysis with Matplotlib***
 
 ## Overview of Project:
 
 ### Overview:
 
-In this project, we are asked to perform an exploratory analysis of the company Pyber, in order to find a relationship between the type of city and the number of drivers and riders.This analysis is carried with the purpose of aiding the company to locate which types of cities they should be targeting to increase their profit.
+In this project, we are asked to perform an exploratory analysis of the company PyBer, in order to find a relationship between the type of city and the number of drivers and riders.This analysis is carried with the purpose of aiding the company to locate which types of cities they should be targeting to increase their profit.
 
 
 
 ### Purpose:
 
-We are asked to perform an analysis of the company Pyber by creating a summary Data Frame of the ride-sharing data by city type using Python and Pandas, followed by plotting multiple line graphs that show the total weekly fares for each city type using Matplotlib.
+We are asked to perform an analysis of the company PyBer by creating a summary Data Frame of the ride-sharing data by city type using Python and Pandas, followed by plotting multiple line graphs that show the total weekly fares for each city type using Matplotlib.
 
 
 ## Results:
@@ -39,7 +39,7 @@ Our analysis found the following results:
 
 ## Summary:
 
-Overall, the company Pyber is highly successful in Urban cities because the fares on average are lower. To increase the success of the company in Rural cities, it would be ideal to increase the amount of drives as well as lower the fares when possible to increase the amount of people of these populations that use these services.
+Overall, the company PyBer is highly successful in Urban cities because the fares on average are lower. To increase the success of the company in Rural cities, it would be ideal to increase the amount of drives as well as lower the fares when possible to increase the amount of people of these populations that use these services.
 
 The company could increase its profits if overall the averages of Rural and Suburban cities were closer to the averages of Urban cities, or at the least the Rural and Suburban cities were following eachother closely within the numbers.
 
