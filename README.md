@@ -41,5 +41,6 @@ Our analysis found the following results:
 
 Overall, the company Pyber is most successful in Urban cities because the fares on average are lower. To increase the success of the company in Rural cities, it would be ideal to increase the amount of drives as well as lower the fares when possible to increase the amount of people of these populations that use these services.
 
-The company could increase its profits if overall the averages of Rural and Suburban cities were closer to the averages of Urban cities.
-Furthermore, it appears to be a trend that between the months of February and April, all cities seem to increase its total fare amount so it would be wise to do additional research and analysis to figure out what factors contributed to the increase of sales and if these factors can be applied throughout the year to increase sales overall.
+The company could increase its profits if overall the averages of Rural and Suburban cities were closer to the averages of Urban cities, or at the least the Rural and Suburban cities were following eachother closely within the numbers.
+
+Furthermore, it appears to be a trend that between the months of February and April, all cities seem to increase its total fare amount so it would be wise to do additional research and analysis to figure out what factors contributed to the increase of sales, and if these factors can be applied throughout the year to increase sales overall.
